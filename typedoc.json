@@ -1,0 +1,4 @@
+{
+  "entryPointStrategy": "expand",
+  "entryPoints": ["app", "components", "db", "pages", "server", "utils"],
+}
